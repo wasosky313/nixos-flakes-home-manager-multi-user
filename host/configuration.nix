@@ -28,7 +28,6 @@
   time.timeZone = "America/Sao_Paulo";
 
   # Configurações globais mínimas de locale
-  i18n.defaultLocale = "pt_BR.UTF-8";
 
   users.users.pelu = {
     isNormalUser = true;
