@@ -59,6 +59,12 @@
       button-layout = "appmenu:minimize,maximize,close";
     };
 
+    "org/gnome/desktop/background" = {
+      picture-uri = "file://${./wallpapers/whispers_muta.png}";
+      picture-uri-dark = "file://${./wallpapers/whispers_muta.png}";
+      picture-options = "zoom";
+    };
+
     "org/gnome/shell" = {
       favorite-apps = [
         "org.gnome.Nautilus.desktop"
