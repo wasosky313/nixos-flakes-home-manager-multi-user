@@ -27,8 +27,6 @@
 
   time.timeZone = "America/Sao_Paulo";
 
-  # Configurações globais mínimas de locale
-
   users.users.pelu = {
     isNormalUser = true;
     extraGroups = [ "wheel" ];
