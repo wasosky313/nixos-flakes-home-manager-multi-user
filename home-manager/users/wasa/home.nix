@@ -2,8 +2,8 @@
 
 {
   imports = [
+    ./gnome
     ../../common
-    ../../desktop/gnome
     ../../common/direnv
     ../../common/oh-my-zsh
     ./git
